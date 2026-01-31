@@ -1,4 +1,4 @@
-# Stock Portfolio Optimization
+# Stock Portfolio Optimization using MPT
 
 A comprehensive data science project for portfolio optimization using Modern Portfolio Theory (MPT). This project demonstrates mean-variance optimization techniques to construct optimal investment portfolios across multiple market sectors.
 
@@ -100,8 +100,8 @@ StocksPortfolioOptimization/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/StocksPortfolioOptimization.git
-cd StocksPortfolioOptimization
+git clone https://github.com/MylieMudaliyar/Stock-Portfolio-Optimization-using-MPT.git
+cd Stock-Portfolio-Optimization-using-MPT
 
 # Create virtual environment
 python -m venv .venv
