@@ -2,6 +2,8 @@
 
 A comprehensive data science project for portfolio optimization using Modern Portfolio Theory (MPT). This project demonstrates mean-variance optimization techniques to construct optimal investment portfolios across multiple market sectors.
 
+## Medium Blog : [how-i-used-python-to-optimise-a-stock-portfolio-and-what-i-learned](https://medium.com/@myliemudaliyar/how-i-used-python-to-optimise-a-stock-portfolio-and-what-i-learned-acd4aa52e865)
+
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
